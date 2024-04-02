@@ -1,6 +1,6 @@
 # Mixed-Effects Contexutal Bandits
 
-Python3 based implementation of the paper "Mixed-Effects Contexutal Bandits".
+Python3 based implementation of the paper "Mixed-Effects Contexutal Bandits" accpeted for AAAI2024[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29243).
 
 ## Directory tree
 ```
